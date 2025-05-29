@@ -1,1107 +1,147 @@
 [
   {
-    "package": "BiocVersion",
-    "url": "https://github.com/bioconductor-source/BiocVersion",
-    "branch": "RELEASE_3_21"
-  },
-  {
-    "package": "BiocStyle",
-    "url": "https://github.com/bioconductor-source/BiocStyle",
-    "branch": "RELEASE_3_21"
-  },
-  {
-    "package": "BiocGenerics",
-    "url": "https://github.com/bioconductor-source/BiocGenerics",
-    "branch": "RELEASE_3_21"
-  },
-  {
-    "package": "widgetTools",
-    "url": "https://github.com/bioconductor-source/widgetTools",
-    "branch": "RELEASE_3_21"
-  },
-  {
-    "package": "DynDoc",
-    "url": "https://github.com/bioconductor-source/DynDoc",
-    "branch": "RELEASE_3_21"
-  },
-  {
-    "package": "tkWidgets",
-    "url": "https://github.com/bioconductor-source/tkWidgets",
+    "package": "AnnotationDbi",
+    "url": "https://git.bioconductor.org/packages/AnnotationDbi",
     "branch": "RELEASE_3_21"
   },
   {
     "package": "Biobase",
-    "url": "https://github.com/bioconductor-source/Biobase",
-    "branch": "RELEASE_3_21"
-  },
-  {
-    "package": "zlibbioc",
-    "url": "https://github.com/bioconductor-source/zlibbioc",
-    "branch": "RELEASE_3_21"
-  },
-  {
-    "package": "BiocParallel",
-    "url": "https://github.com/bioconductor-source/BiocParallel",
-    "branch": "RELEASE_3_21"
-  },
-  {
-    "package": "S4Vectors",
-    "url": "https://github.com/bioconductor-source/S4Vectors",
-    "branch": "RELEASE_3_21"
-  },
-  {
-    "package": "IRanges",
-    "url": "https://github.com/bioconductor-source/IRanges",
-    "branch": "RELEASE_3_21"
-  },
-  {
-    "package": "UCSC.utils",
-    "url": "https://github.com/bioconductor-source/UCSC.utils",
-    "branch": "RELEASE_3_21"
-  },
-  {
-    "package": "GenomeInfoDb",
-    "url": "https://github.com/bioconductor-source/GenomeInfoDb",
-    "branch": "RELEASE_3_21"
-  },
-  {
-    "package": "AnnotationDbi",
-    "url": "https://github.com/bioconductor-source/AnnotationDbi",
-    "branch": "RELEASE_3_21"
-  },
-  {
-    "package": "AnnotationForge",
-    "url": "https://github.com/bioconductor-source/AnnotationForge",
-    "branch": "RELEASE_3_21"
-  },
-  {
-    "package": "OrganismDbi",
-    "url": "https://github.com/bioconductor-source/OrganismDbi",
-    "branch": "RELEASE_3_21"
-  },
-  {
-    "package": "XVector",
-    "url": "https://github.com/bioconductor-source/XVector",
-    "branch": "RELEASE_3_21"
-  },
-  {
-    "package": "GenomicRanges",
-    "url": "https://github.com/bioconductor-source/GenomicRanges",
-    "branch": "RELEASE_3_21"
-  },
-  {
-    "package": "KEGGgraph",
-    "url": "https://github.com/bioconductor-source/KEGGgraph",
-    "branch": "RELEASE_3_21"
-  },
-  {
-    "package": "SPIA",
-    "url": "https://github.com/bioconductor-source/SPIA",
-    "branch": "RELEASE_3_21"
-  },
-  {
-    "package": "Biostrings",
-    "url": "https://github.com/bioconductor-source/Biostrings",
-    "branch": "RELEASE_3_21"
-  },
-  {
-    "package": "pwalign",
-    "url": "https://github.com/bioconductor-source/pwalign",
-    "branch": "RELEASE_3_21"
-  },
-  {
-    "package": "MatrixGenerics",
-    "url": "https://github.com/bioconductor-source/MatrixGenerics",
-    "branch": "RELEASE_3_21"
-  },
-  {
-    "package": "S4Arrays",
-    "url": "https://github.com/bioconductor-source/S4Arrays",
-    "branch": "RELEASE_3_21"
-  },
-  {
-    "package": "SparseArray",
-    "url": "https://github.com/bioconductor-source/SparseArray",
-    "branch": "RELEASE_3_21"
-  },
-  {
-    "package": "DelayedArray",
-    "url": "https://github.com/bioconductor-source/DelayedArray",
-    "branch": "RELEASE_3_21"
-  },
-  {
-    "package": "sparseMatrixStats",
-    "url": "https://github.com/bioconductor-source/sparseMatrixStats",
-    "branch": "RELEASE_3_21"
-  },
-  {
-    "package": "DelayedMatrixStats",
-    "url": "https://github.com/bioconductor-source/DelayedMatrixStats",
-    "branch": "RELEASE_3_21"
-  },
-  {
-    "package": "annotate",
-    "url": "https://github.com/bioconductor-source/annotate",
-    "branch": "RELEASE_3_21"
-  },
-  {
-    "package": "genefilter",
-    "url": "https://github.com/bioconductor-source/genefilter",
-    "branch": "RELEASE_3_21"
-  },
-  {
-    "package": "ROC",
-    "url": "https://github.com/bioconductor-source/ROC",
-    "branch": "RELEASE_3_21"
-  },
-  {
-    "package": "SummarizedExperiment",
-    "url": "https://github.com/bioconductor-source/SummarizedExperiment",
-    "branch": "RELEASE_3_21"
-  },
-  {
-    "package": "SingleCellExperiment",
-    "url": "https://github.com/bioconductor-source/SingleCellExperiment",
-    "branch": "RELEASE_3_21"
-  },
-  {
-    "package": "Rhtslib",
-    "url": "https://github.com/bioconductor-source/Rhtslib",
-    "branch": "RELEASE_3_21"
-  },
-  {
-    "package": "Rsamtools",
-    "url": "https://github.com/bioconductor-source/Rsamtools",
-    "branch": "RELEASE_3_21"
-  },
-  {
-    "package": "GenomicAlignments",
-    "url": "https://github.com/bioconductor-source/GenomicAlignments",
-    "branch": "RELEASE_3_21"
-  },
-  {
-    "package": "BiocIO",
-    "url": "https://github.com/bioconductor-source/BiocIO",
-    "branch": "RELEASE_3_21"
-  },
-  {
-    "package": "rtracklayer",
-    "url": "https://github.com/bioconductor-source/rtracklayer",
-    "branch": "RELEASE_3_21"
-  },
-  {
-    "package": "microRNA",
-    "url": "https://github.com/bioconductor-source/microRNA",
-    "branch": "RELEASE_3_21"
-  },
-  {
-    "package": "BSgenome",
-    "url": "https://github.com/bioconductor-source/BSgenome",
-    "branch": "RELEASE_3_21"
-  },
-  {
-    "package": "BiocFileCache",
-    "url": "https://github.com/bioconductor-source/BiocFileCache",
-    "branch": "RELEASE_3_21"
-  },
-  {
-    "package": "interactiveDisplayBase",
-    "url": "https://github.com/bioconductor-source/interactiveDisplayBase",
-    "branch": "RELEASE_3_21"
-  },
-  {
-    "package": "interactiveDisplay",
-    "url": "https://github.com/bioconductor-source/interactiveDisplay",
-    "branch": "RELEASE_3_21"
-  },
-  {
-    "package": "AnnotationHub",
-    "url": "https://github.com/bioconductor-source/AnnotationHub",
-    "branch": "RELEASE_3_21"
-  },
-  {
-    "package": "ExperimentHub",
-    "url": "https://github.com/bioconductor-source/ExperimentHub",
-    "branch": "RELEASE_3_21"
-  },
-  {
-    "package": "gdsfmt",
-    "url": "https://github.com/bioconductor-source/gdsfmt",
-    "branch": "RELEASE_3_21"
-  },
-  {
-    "package": "biomaRt",
-    "url": "https://github.com/bioconductor-source/biomaRt",
-    "branch": "RELEASE_3_21"
-  },
-  {
-    "package": "GenomicFeatures",
-    "url": "https://github.com/bioconductor-source/GenomicFeatures",
-    "branch": "RELEASE_3_21"
-  },
-  {
-    "package": "txdbmaker",
-    "url": "https://github.com/bioconductor-source/txdbmaker",
-    "branch": "RELEASE_3_21"
-  },
-  {
-    "package": "ShortRead",
-    "url": "https://github.com/bioconductor-source/ShortRead",
-    "branch": "RELEASE_3_21"
-  },
-  {
-    "package": "VariantAnnotation",
-    "url": "https://github.com/bioconductor-source/VariantAnnotation",
-    "branch": "RELEASE_3_21"
-  },
-  {
-    "package": "snpStats",
-    "url": "https://github.com/bioconductor-source/snpStats",
-    "branch": "RELEASE_3_21"
-  },
-  {
-    "package": "preprocessCore",
-    "url": "https://github.com/bioconductor-source/preprocessCore",
-    "branch": "RELEASE_3_21"
-  },
-  {
-    "package": "affyio",
-    "url": "https://github.com/bioconductor-source/affyio",
-    "branch": "RELEASE_3_21"
-  },
-  {
-    "package": "affy",
-    "url": "https://github.com/bioconductor-source/affy",
-    "branch": "RELEASE_3_21"
-  },
-  {
-    "package": "multtest",
-    "url": "https://github.com/bioconductor-source/multtest",
-    "branch": "RELEASE_3_21"
-  },
-  {
-    "package": "impute",
-    "url": "https://github.com/bioconductor-source/impute",
-    "branch": "RELEASE_3_21"
-  },
-  {
-    "package": "Rhdf5lib",
-    "url": "https://github.com/bioconductor-source/Rhdf5lib",
-    "branch": "RELEASE_3_21"
-  },
-  {
-    "package": "rhdf5filters",
-    "url": "https://github.com/bioconductor-source/rhdf5filters",
-    "branch": "RELEASE_3_21"
-  },
-  {
-    "package": "rhdf5",
-    "url": "https://github.com/bioconductor-source/rhdf5",
-    "branch": "RELEASE_3_21"
-  },
-  {
-    "package": "h5mread",
-    "url": "https://github.com/bioconductor-source/h5mread",
-    "branch": "RELEASE_3_21"
-  },
-  {
-    "package": "HDF5Array",
-    "url": "https://github.com/bioconductor-source/HDF5Array",
-    "branch": "RELEASE_3_21"
-  },
-  {
-    "package": "zellkonverter",
-    "url": "https://github.com/bioconductor-source/zellkonverter",
-    "branch": "RELEASE_3_21"
-  },
-  {
-    "package": "assorthead",
-    "url": "https://github.com/bioconductor-source/assorthead",
-    "branch": "RELEASE_3_21"
-  },
-  {
-    "package": "beachmat",
-    "url": "https://github.com/bioconductor-source/beachmat",
-    "branch": "RELEASE_3_21"
-  },
-  {
-    "package": "beachmat.hdf5",
-    "url": "https://github.com/bioconductor-source/beachmat.hdf5",
-    "branch": "RELEASE_3_21"
-  },
-  {
-    "package": "BiocNeighbors",
-    "url": "https://github.com/bioconductor-source/BiocNeighbors",
-    "branch": "RELEASE_3_21"
-  },
-  {
-    "package": "AnnotationFilter",
-    "url": "https://github.com/bioconductor-source/AnnotationFilter",
-    "branch": "RELEASE_3_21"
-  },
-  {
-    "package": "limma",
-    "url": "https://github.com/bioconductor-source/limma",
-    "branch": "RELEASE_3_21"
-  },
-  {
-    "package": "vsn",
-    "url": "https://github.com/bioconductor-source/vsn",
-    "branch": "RELEASE_3_21"
-  },
-  {
-    "package": "illuminaio",
-    "url": "https://github.com/bioconductor-source/illuminaio",
-    "branch": "RELEASE_3_21"
-  },
-  {
-    "package": "edgeR",
-    "url": "https://github.com/bioconductor-source/edgeR",
-    "branch": "RELEASE_3_21"
-  },
-  {
-    "package": "Rsubread",
-    "url": "https://github.com/bioconductor-source/Rsubread",
-    "branch": "RELEASE_3_21"
-  },
-  {
-    "package": "geneplotter",
-    "url": "https://github.com/bioconductor-source/geneplotter",
-    "branch": "RELEASE_3_21"
-  },
-  {
-    "package": "glmGamPoi",
-    "url": "https://github.com/bioconductor-source/glmGamPoi",
-    "branch": "RELEASE_3_21"
-  },
-  {
-    "package": "DESeq2",
-    "url": "https://github.com/bioconductor-source/DESeq2",
-    "branch": "RELEASE_3_21"
-  },
-  {
-    "package": "eds",
-    "url": "https://github.com/bioconductor-source/eds",
-    "branch": "RELEASE_3_21"
-  },
-  {
-    "package": "tximport",
-    "url": "https://github.com/bioconductor-source/tximport",
-    "branch": "RELEASE_3_21"
-  },
-  {
-    "package": "tximeta",
-    "url": "https://github.com/bioconductor-source/tximeta",
-    "branch": "RELEASE_3_21"
-  },
-  {
-    "package": "apeglm",
-    "url": "https://github.com/bioconductor-source/apeglm",
-    "branch": "RELEASE_3_21"
-  },
-  {
-    "package": "qvalue",
-    "url": "https://github.com/bioconductor-source/qvalue",
-    "branch": "RELEASE_3_21"
-  },
-  {
-    "package": "fishpond",
-    "url": "https://github.com/bioconductor-source/fishpond",
-    "branch": "RELEASE_3_21"
-  },
-  {
-    "package": "DEXSeq",
-    "url": "https://github.com/bioconductor-source/DEXSeq",
-    "branch": "RELEASE_3_21"
-  },
-  {
-    "package": "metapod",
-    "url": "https://github.com/bioconductor-source/metapod",
-    "branch": "RELEASE_3_21"
-  },
-  {
-    "package": "csaw",
-    "url": "https://github.com/bioconductor-source/csaw",
-    "branch": "RELEASE_3_21"
-  },
-  {
-    "package": "graph",
-    "url": "https://github.com/bioconductor-source/graph",
-    "branch": "RELEASE_3_21"
-  },
-  {
-    "package": "Rgraphviz",
-    "url": "https://github.com/bioconductor-source/Rgraphviz",
-    "branch": "RELEASE_3_21"
-  },
-  {
-    "package": "RBGL",
-    "url": "https://github.com/bioconductor-source/RBGL",
-    "branch": "RELEASE_3_21"
-  },
-  {
-    "package": "ProtGenerics",
-    "url": "https://github.com/bioconductor-source/ProtGenerics",
-    "branch": "RELEASE_3_21"
-  },
-  {
-    "package": "ensembldb",
-    "url": "https://github.com/bioconductor-source/ensembldb",
-    "branch": "RELEASE_3_21"
-  },
-  {
-    "package": "biovizBase",
-    "url": "https://github.com/bioconductor-source/biovizBase",
-    "branch": "RELEASE_3_21"
-  },
-  {
-    "package": "ggbio",
-    "url": "https://github.com/bioconductor-source/ggbio",
-    "branch": "RELEASE_3_21"
-  },
-  {
-    "package": "Gviz",
-    "url": "https://github.com/bioconductor-source/Gviz",
-    "branch": "RELEASE_3_21"
-  },
-  {
-    "package": "mzID",
-    "url": "https://github.com/bioconductor-source/mzID",
-    "branch": "RELEASE_3_21"
-  },
-  {
-    "package": "mzR",
-    "url": "https://github.com/bioconductor-source/mzR",
-    "branch": "RELEASE_3_21"
-  },
-  {
-    "package": "RProtoBufLib",
-    "url": "https://github.com/bioconductor-source/RProtoBufLib",
-    "branch": "RELEASE_3_21"
-  },
-  {
-    "package": "cytolib",
-    "url": "https://github.com/bioconductor-source/cytolib",
-    "branch": "RELEASE_3_21"
-  },
-  {
-    "package": "flowCore",
-    "url": "https://github.com/bioconductor-source/flowCore",
-    "branch": "RELEASE_3_21"
-  },
-  {
-    "package": "dir.expiry",
-    "url": "https://github.com/bioconductor-source/dir.expiry",
-    "branch": "RELEASE_3_21"
-  },
-  {
-    "package": "basilisk.utils",
-    "url": "https://github.com/bioconductor-source/basilisk.utils",
-    "branch": "RELEASE_3_21"
-  },
-  {
-    "package": "basilisk",
-    "url": "https://github.com/bioconductor-source/basilisk",
-    "branch": "RELEASE_3_21"
-  },
-  {
-    "package": "rBiopaxParser",
-    "url": "https://github.com/bioconductor-source/rBiopaxParser",
-    "branch": "RELEASE_3_21"
-  },
-  {
-    "package": "pcaMethods",
-    "url": "https://github.com/bioconductor-source/pcaMethods",
-    "branch": "RELEASE_3_21"
-  },
-  {
-    "package": "MSnbase",
-    "url": "https://github.com/bioconductor-source/MSnbase",
-    "branch": "RELEASE_3_21"
-  },
-  {
-    "package": "rols",
-    "url": "https://github.com/bioconductor-source/rols",
-    "branch": "RELEASE_3_21"
-  },
-  {
-    "package": "Rdisop",
-    "url": "https://github.com/bioconductor-source/Rdisop",
-    "branch": "RELEASE_3_21"
-  },
-  {
-    "package": "affxparser",
-    "url": "https://github.com/bioconductor-source/affxparser",
-    "branch": "RELEASE_3_21"
-  },
-  {
-    "package": "MsCoreUtils",
-    "url": "https://github.com/bioconductor-source/MsCoreUtils",
-    "branch": "RELEASE_3_21"
-  },
-  {
-    "package": "biocViews",
-    "url": "https://github.com/bioconductor-source/biocViews",
+    "url": "https://git.bioconductor.org/packages/Biobase",
     "branch": "RELEASE_3_21"
   },
   {
     "package": "BiocBaseUtils",
-    "url": "https://github.com/bioconductor-source/BiocBaseUtils",
+    "url": "https://git.bioconductor.org/packages/BiocBaseUtils",
     "branch": "RELEASE_3_21"
   },
   {
-    "package": "BiocCheck",
-    "url": "https://github.com/bioconductor-source/BiocCheck",
+    "package": "BiocFileCache",
+    "url": "https://git.bioconductor.org/packages/BiocFileCache",
+    "branch": "RELEASE_3_21"
+  },
+  {
+    "package": "BiocGenerics",
+    "url": "https://git.bioconductor.org/packages/BiocGenerics",
+    "branch": "RELEASE_3_21"
+  },
+  {
+    "package": "BiocIO",
+    "url": "https://git.bioconductor.org/packages/BiocIO",
+    "branch": "RELEASE_3_21"
+  },
+  {
+    "package": "BiocParallel",
+    "url": "https://git.bioconductor.org/packages/BiocParallel",
+    "branch": "RELEASE_3_21"
+  },
+  {
+    "package": "BiocStyle",
+    "url": "https://git.bioconductor.org/packages/BiocStyle",
+    "branch": "RELEASE_3_21"
+  },
+  {
+    "package": "BiocVersion",
+    "url": "https://git.bioconductor.org/packages/BiocVersion",
+    "branch": "RELEASE_3_21"
+  },
+  {
+    "package": "Biostrings",
+    "url": "https://git.bioconductor.org/packages/Biostrings",
+    "branch": "RELEASE_3_21"
+  },
+  {
+    "package": "DelayedArray",
+    "url": "https://git.bioconductor.org/packages/DelayedArray",
+    "branch": "RELEASE_3_21"
+  },
+  {
+    "package": "GenomeInfoDb",
+    "url": "https://git.bioconductor.org/packages/GenomeInfoDb",
+    "branch": "RELEASE_3_21"
+  },
+  {
+    "package": "GenomicAlignments",
+    "url": "https://git.bioconductor.org/packages/GenomicAlignments",
+    "branch": "RELEASE_3_21"
+  },
+  {
+    "package": "GenomicFeatures",
+    "url": "https://git.bioconductor.org/packages/GenomicFeatures",
+    "branch": "RELEASE_3_21"
+  },
+  {
+    "package": "GenomicRanges",
+    "url": "https://git.bioconductor.org/packages/GenomicRanges",
+    "branch": "RELEASE_3_21"
+  },
+  {
+    "package": "IRanges",
+    "url": "https://git.bioconductor.org/packages/IRanges",
     "branch": "RELEASE_3_21"
   },
   {
     "package": "KEGGREST",
-    "url": "https://github.com/bioconductor-source/KEGGREST",
+    "url": "https://git.bioconductor.org/packages/KEGGREST",
     "branch": "RELEASE_3_21"
   },
   {
-    "package": "treeio",
-    "url": "https://github.com/bioconductor-source/treeio",
-    "branch": "RELEASE_3_21"
-  },
-  {
-    "package": "ggtree",
-    "url": "https://github.com/bioconductor-source/ggtree",
-    "branch": "RELEASE_3_21"
-  },
-  {
-    "package": "ggtreeExtra",
-    "url": "https://github.com/bioconductor-source/ggtreeExtra",
-    "branch": "RELEASE_3_21"
-  },
-  {
-    "package": "enrichplot",
-    "url": "https://github.com/bioconductor-source/enrichplot",
-    "branch": "RELEASE_3_21"
-  },
-  {
-    "package": "clusterProfiler",
-    "url": "https://github.com/bioconductor-source/clusterProfiler",
-    "branch": "RELEASE_3_21"
-  },
-  {
-    "package": "DOSE",
-    "url": "https://github.com/bioconductor-source/DOSE",
-    "branch": "RELEASE_3_21"
-  },
-  {
-    "package": "fgsea",
-    "url": "https://github.com/bioconductor-source/fgsea",
-    "branch": "RELEASE_3_21"
-  },
-  {
-    "package": "GOSemSim",
-    "url": "https://github.com/bioconductor-source/GOSemSim",
-    "branch": "RELEASE_3_21"
-  },
-  {
-    "package": "ComplexHeatmap",
-    "url": "https://github.com/bioconductor-source/ComplexHeatmap",
-    "branch": "RELEASE_3_21"
-  },
-  {
-    "package": "EnrichedHeatmap",
-    "url": "https://github.com/bioconductor-source/EnrichedHeatmap",
-    "branch": "RELEASE_3_21"
-  },
-  {
-    "package": "ResidualMatrix",
-    "url": "https://github.com/bioconductor-source/ResidualMatrix",
-    "branch": "RELEASE_3_21"
-  },
-  {
-    "package": "BiocSingular",
-    "url": "https://github.com/bioconductor-source/BiocSingular",
-    "branch": "RELEASE_3_21"
-  },
-  {
-    "package": "ScaledMatrix",
-    "url": "https://github.com/bioconductor-source/ScaledMatrix",
-    "branch": "RELEASE_3_21"
-  },
-  {
-    "package": "scuttle",
-    "url": "https://github.com/bioconductor-source/scuttle",
-    "branch": "RELEASE_3_21"
-  },
-  {
-    "package": "GEOquery",
-    "url": "https://github.com/bioconductor-source/GEOquery",
-    "branch": "RELEASE_3_21"
-  },
-  {
-    "package": "gcrma",
-    "url": "https://github.com/bioconductor-source/gcrma",
-    "branch": "RELEASE_3_21"
-  },
-  {
-    "package": "affyPLM",
-    "url": "https://github.com/bioconductor-source/affyPLM",
-    "branch": "RELEASE_3_21"
-  },
-  {
-    "package": "BSgenomeForge",
-    "url": "https://github.com/bioconductor-source/BSgenomeForge",
-    "branch": "RELEASE_3_21"
-  },
-  {
-    "package": "alabaster.schemas",
-    "url": "https://github.com/bioconductor-source/alabaster.schemas",
-    "branch": "RELEASE_3_21"
-  },
-  {
-    "package": "alabaster.base",
-    "url": "https://github.com/bioconductor-source/alabaster.base",
-    "branch": "RELEASE_3_21"
-  },
-  {
-    "package": "alabaster.matrix",
-    "url": "https://github.com/bioconductor-source/alabaster.matrix",
-    "branch": "RELEASE_3_21"
-  },
-  {
-    "package": "alabaster.ranges",
-    "url": "https://github.com/bioconductor-source/alabaster.ranges",
-    "branch": "RELEASE_3_21"
-  },
-  {
-    "package": "alabaster.se",
-    "url": "https://github.com/bioconductor-source/alabaster.se",
-    "branch": "RELEASE_3_21"
-  },
-  {
-    "package": "alabaster.sce",
-    "url": "https://github.com/bioconductor-source/alabaster.sce",
-    "branch": "RELEASE_3_21"
-  },
-  {
-    "package": "gypsum",
-    "url": "https://github.com/bioconductor-source/gypsum",
-    "branch": "RELEASE_3_21"
-  },
-  {
-    "package": "chihaya",
-    "url": "https://github.com/bioconductor-source/chihaya",
-    "branch": "RELEASE_3_21"
-  },
-  {
-    "package": "scran",
-    "url": "https://github.com/bioconductor-source/scran",
-    "branch": "RELEASE_3_21"
-  },
-  {
-    "package": "bluster",
-    "url": "https://github.com/bioconductor-source/bluster",
-    "branch": "RELEASE_3_21"
-  },
-  {
-    "package": "scater",
-    "url": "https://github.com/bioconductor-source/scater",
-    "branch": "RELEASE_3_21"
-  },
-  {
-    "package": "snifter",
-    "url": "https://github.com/bioconductor-source/snifter",
-    "branch": "RELEASE_3_21"
-  },
-  {
-    "package": "densvis",
-    "url": "https://github.com/bioconductor-source/densvis",
-    "branch": "RELEASE_3_21"
-  },
-  {
-    "package": "GSEABase",
-    "url": "https://github.com/bioconductor-source/GSEABase",
-    "branch": "RELEASE_3_21"
-  },
-  {
-    "package": "Category",
-    "url": "https://github.com/bioconductor-source/Category",
-    "branch": "RELEASE_3_21"
-  },
-  {
-    "package": "GOstats",
-    "url": "https://github.com/bioconductor-source/GOstats",
-    "branch": "RELEASE_3_21"
-  },
-  {
-    "package": "ReportingTools",
-    "url": "https://github.com/bioconductor-source/ReportingTools",
-    "branch": "RELEASE_3_21"
-  },
-  {
-    "package": "EBImage",
-    "url": "https://github.com/bioconductor-source/EBImage",
-    "branch": "RELEASE_3_21"
-  },
-  {
-    "package": "BumpyMatrix",
-    "url": "https://github.com/bioconductor-source/BumpyMatrix",
-    "branch": "RELEASE_3_21"
-  },
-  {
-    "package": "SpatialExperiment",
-    "url": "https://github.com/bioconductor-source/SpatialExperiment",
-    "branch": "RELEASE_3_21"
-  },
-  {
-    "package": "TENxIO",
-    "url": "https://github.com/bioconductor-source/TENxIO",
-    "branch": "RELEASE_3_21"
-  },
-  {
-    "package": "VisiumIO",
-    "url": "https://github.com/bioconductor-source/VisiumIO",
-    "branch": "RELEASE_3_21"
-  },
-  {
-    "package": "GSVA",
-    "url": "https://github.com/bioconductor-source/GSVA",
-    "branch": "RELEASE_3_21"
-  },
-  {
-    "package": "DropletUtils",
-    "url": "https://github.com/bioconductor-source/DropletUtils",
-    "branch": "RELEASE_3_21"
-  },
-  {
-    "package": "DECIPHER",
-    "url": "https://github.com/bioconductor-source/DECIPHER",
-    "branch": "RELEASE_3_21"
-  },
-  {
-    "package": "regioneR",
-    "url": "https://github.com/bioconductor-source/regioneR",
-    "branch": "RELEASE_3_21"
-  },
-  {
-    "package": "bamsignals",
-    "url": "https://github.com/bioconductor-source/bamsignals",
-    "branch": "RELEASE_3_21"
-  },
-  {
-    "package": "karyoploteR",
-    "url": "https://github.com/bioconductor-source/karyoploteR",
-    "branch": "RELEASE_3_21"
-  },
-  {
-    "package": "DirichletMultinomial",
-    "url": "https://github.com/bioconductor-source/DirichletMultinomial",
-    "branch": "RELEASE_3_21"
-  },
-  {
-    "package": "mbkmeans",
-    "url": "https://github.com/bioconductor-source/mbkmeans",
+    "package": "MatrixGenerics",
+    "url": "https://git.bioconductor.org/packages/MatrixGenerics",
     "branch": "RELEASE_3_21"
   },
   {
     "package": "MultiAssayExperiment",
-    "url": "https://github.com/bioconductor-source/MultiAssayExperiment",
+    "url": "https://git.bioconductor.org/packages/MultiAssayExperiment",
     "branch": "RELEASE_3_21"
   },
   {
-    "package": "RaggedExperiment",
-    "url": "https://github.com/bioconductor-source/RaggedExperiment",
+    "package": "Rhtslib",
+    "url": "https://git.bioconductor.org/packages/Rhtslib",
     "branch": "RELEASE_3_21"
   },
   {
-    "package": "DNAcopy",
-    "url": "https://github.com/bioconductor-source/DNAcopy",
+    "package": "Rsamtools",
+    "url": "https://git.bioconductor.org/packages/Rsamtools",
     "branch": "RELEASE_3_21"
   },
   {
-    "package": "maftools",
-    "url": "https://github.com/bioconductor-source/maftools",
+    "package": "rtracklayer",
+    "url": "https://git.bioconductor.org/packages/rtracklayer",
     "branch": "RELEASE_3_21"
   },
   {
-    "package": "AnnotationHubData",
-    "url": "https://github.com/bioconductor-source/AnnotationHubData",
+    "package": "S4Arrays",
+    "url": "https://git.bioconductor.org/packages/S4Arrays",
     "branch": "RELEASE_3_21"
   },
   {
-    "package": "ExperimentHubData",
-    "url": "https://github.com/bioconductor-source/ExperimentHubData",
+    "package": "S4Vectors",
+    "url": "https://git.bioconductor.org/packages/S4Vectors",
     "branch": "RELEASE_3_21"
   },
   {
-    "package": "biocthis",
-    "url": "https://github.com/bioconductor-source/biocthis",
+    "package": "SingleCellExperiment",
+    "url": "https://git.bioconductor.org/packages/SingleCellExperiment",
     "branch": "RELEASE_3_21"
   },
   {
-    "package": "HubPub",
-    "url": "https://github.com/bioconductor-source/HubPub",
+    "package": "SparseArray",
+    "url": "https://git.bioconductor.org/packages/SparseArray",
     "branch": "RELEASE_3_21"
   },
   {
-    "package": "MetaboCoreUtils",
-    "url": "https://github.com/bioconductor-source/MetaboCoreUtils",
+    "package": "SummarizedExperiment",
+    "url": "https://git.bioconductor.org/packages/SummarizedExperiment",
     "branch": "RELEASE_3_21"
   },
   {
-    "package": "Spectra",
-    "url": "https://github.com/bioconductor-source/Spectra",
+    "package": "UCSC.utils",
+    "url": "https://git.bioconductor.org/packages/UCSC.utils",
     "branch": "RELEASE_3_21"
   },
   {
-    "package": "QFeatures",
-    "url": "https://github.com/bioconductor-source/QFeatures",
-    "branch": "RELEASE_3_21"
-  },
-  {
-    "package": "PSMatch",
-    "url": "https://github.com/bioconductor-source/PSMatch",
-    "branch": "RELEASE_3_21"
-  },
-  {
-    "package": "MsDataHub",
-    "url": "https://github.com/bioconductor-source/MsDataHub",
-    "branch": "RELEASE_3_21"
-  },
-  {
-    "package": "rpx",
-    "url": "https://github.com/bioconductor-source/rpx",
-    "branch": "RELEASE_3_21"
-  },
-  {
-    "package": "ChemmineR",
-    "url": "https://github.com/bioconductor-source/ChemmineR",
-    "branch": "RELEASE_3_21"
-  },
-  {
-    "package": "ChemmineOB",
-    "url": "https://github.com/bioconductor-source/ChemmineOB",
-    "branch": "RELEASE_3_21"
-  },
-  {
-    "package": "fmcsR",
-    "url": "https://github.com/bioconductor-source/fmcsR",
-    "branch": "RELEASE_3_21"
-  },
-  {
-    "package": "CompoundDb",
-    "url": "https://github.com/bioconductor-source/CompoundDb",
-    "branch": "RELEASE_3_21"
-  },
-  {
-    "package": "MsBackendMgf",
-    "url": "https://github.com/bioconductor-source/MsBackendMgf",
-    "branch": "RELEASE_3_21"
-  },
-  {
-    "package": "flowClust",
-    "url": "https://github.com/bioconductor-source/flowClust",
-    "branch": "RELEASE_3_21"
-  },
-  {
-    "package": "flowWorkspace",
-    "url": "https://github.com/bioconductor-source/flowWorkspace",
-    "branch": "RELEASE_3_21"
-  },
-  {
-    "package": "ncdfFlow",
-    "url": "https://github.com/bioconductor-source/ncdfFlow",
-    "branch": "RELEASE_3_21"
-  },
-  {
-    "package": "flowViz",
-    "url": "https://github.com/bioconductor-source/flowViz",
-    "branch": "RELEASE_3_21"
-  },
-  {
-    "package": "flowStats",
-    "url": "https://github.com/bioconductor-source/flowStats",
-    "branch": "RELEASE_3_21"
-  },
-  {
-    "package": "ggcyto",
-    "url": "https://github.com/bioconductor-source/ggcyto",
-    "branch": "RELEASE_3_21"
-  },
-  {
-    "package": "openCyto",
-    "url": "https://github.com/bioconductor-source/openCyto",
-    "branch": "RELEASE_3_21"
-  },
-  {
-    "package": "CytoML",
-    "url": "https://github.com/bioconductor-source/CytoML",
-    "branch": "RELEASE_3_21"
-  },
-  {
-    "package": "EBarrays",
-    "url": "https://github.com/bioconductor-source/EBarrays",
-    "branch": "RELEASE_3_21"
-  },
-  {
-    "package": "pRoloc",
-    "url": "https://github.com/bioconductor-source/pRoloc",
-    "branch": "RELEASE_3_21"
-  },
-  {
-    "package": "MLInterfaces",
-    "url": "https://github.com/bioconductor-source/MLInterfaces",
-    "branch": "RELEASE_3_21"
-  },
-  {
-    "package": "gpls",
-    "url": "https://github.com/bioconductor-source/gpls",
-    "branch": "RELEASE_3_21"
-  },
-  {
-    "package": "keggorthology",
-    "url": "https://github.com/bioconductor-source/keggorthology",
-    "branch": "RELEASE_3_21"
-  },
-  {
-    "package": "hpar",
-    "url": "https://github.com/bioconductor-source/hpar",
-    "branch": "RELEASE_3_21"
-  },
-  {
-    "package": "LoomExperiment",
-    "url": "https://github.com/bioconductor-source/LoomExperiment",
-    "branch": "RELEASE_3_21"
-  },
-  {
-    "package": "sva",
-    "url": "https://github.com/bioconductor-source/sva",
-    "branch": "RELEASE_3_21"
-  },
-  {
-    "package": "biomformat",
-    "url": "https://github.com/bioconductor-source/biomformat",
-    "branch": "RELEASE_3_21"
-  },
-  {
-    "package": "phyloseq",
-    "url": "https://github.com/bioconductor-source/phyloseq",
-    "branch": "RELEASE_3_21"
-  },
-  {
-    "package": "metagenomeSeq",
-    "url": "https://github.com/bioconductor-source/metagenomeSeq",
-    "branch": "RELEASE_3_21"
-  },
-  {
-    "package": "Wrench",
-    "url": "https://github.com/bioconductor-source/Wrench",
-    "branch": "RELEASE_3_21"
-  },
-  {
-    "package": "IHW",
-    "url": "https://github.com/bioconductor-source/IHW",
-    "branch": "RELEASE_3_21"
-  },
-  {
-    "package": "lpsymphony",
-    "url": "https://github.com/bioconductor-source/lpsymphony",
-    "branch": "RELEASE_3_21"
-  },
-  {
-    "package": "EnhancedVolcano",
-    "url": "https://github.com/bioconductor-source/EnhancedVolcano",
-    "branch": "RELEASE_3_21"
-  },
-  {
-    "package": "pathview",
-    "url": "https://github.com/bioconductor-source/pathview",
-    "branch": "RELEASE_3_21"
-  },
-  {
-    "package": "gage",
-    "url": "https://github.com/bioconductor-source/gage",
-    "branch": "RELEASE_3_21"
-  },
-  {
-    "package": "biocmake",
-    "url": "https://github.com/bioconductor-source/biocmake",
-    "branch": "RELEASE_3_21"
-  },
-  {
-    "package": "Rigraphlib",
-    "url": "https://github.com/bioconductor-source/Rigraphlib",
-    "branch": "RELEASE_3_21"
-  },
-  {
-    "package": "scrapper",
-    "url": "https://github.com/bioconductor-source/scrapper",
-    "branch": "RELEASE_3_21"
-  },
-  {
-    "package": "SingleR",
-    "url": "https://github.com/bioconductor-source/SingleR",
-    "branch": "RELEASE_3_21"
-  },
-  {
-    "package": "ConsensusClusterPlus",
-    "url": "https://github.com/bioconductor-source/ConsensusClusterPlus",
-    "branch": "RELEASE_3_21"
-  },
-  {
-    "package": "aroma.light",
-    "url": "https://github.com/bioconductor-source/aroma.light",
-    "branch": "RELEASE_3_21"
-  },
-  {
-    "package": "EDASeq",
-    "url": "https://github.com/bioconductor-source/EDASeq",
-    "branch": "RELEASE_3_21"
-  },
-  {
-    "package": "TCGAbiolinks",
-    "url": "https://github.com/bioconductor-source/TCGAbiolinks",
-    "branch": "RELEASE_3_21"
-  },
-  {
-    "package": "minet",
-    "url": "https://github.com/bioconductor-source/minet",
-    "branch": "RELEASE_3_21"
-  },
-  {
-    "package": "sesame",
-    "url": "https://github.com/bioconductor-source/sesame",
-    "branch": "RELEASE_3_21"
-  },
-  {
-    "package": "batchelor",
-    "url": "https://github.com/bioconductor-source/batchelor",
-    "branch": "RELEASE_3_21"
-  },
-  {
-    "package": "seqLogo",
-    "url": "https://github.com/bioconductor-source/seqLogo",
-    "branch": "RELEASE_3_21"
-  },
-  {
-    "package": "MassSpecWavelet",
-    "url": "https://github.com/bioconductor-source/MassSpecWavelet",
-    "branch": "RELEASE_3_21"
-  },
-  {
-    "package": "MsFeatures",
-    "url": "https://github.com/bioconductor-source/MsFeatures",
-    "branch": "RELEASE_3_21"
-  },
-  {
-    "package": "MsBackendSql",
-    "url": "https://github.com/bioconductor-source/MsBackendSql",
-    "branch": "RELEASE_3_21"
-  },
-  {
-    "package": "MsExperiment",
-    "url": "https://github.com/bioconductor-source/MsExperiment",
-    "branch": "RELEASE_3_21"
-  },
-  {
-    "package": "xcms",
-    "url": "https://github.com/bioconductor-source/xcms",
+    "package": "XVector",
+    "url": "https://git.bioconductor.org/packages/XVector",
     "branch": "RELEASE_3_21"
   }
 ]
