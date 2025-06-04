@@ -5,6 +5,16 @@
     "branch": "RELEASE_3_21"
   },
   {
+    "package": "AnnotationHub",
+    "url": "https://git.bioconductor.org/packages/AnnotationHub",
+    "branch": "RELEASE_3_21"
+  },
+  {
+    "package": "basilisk",
+    "url": "https://git.bioconductor.org/packages/basilisk",
+    "branch": "RELEASE_3_21"
+  },
+  {
     "package": "Biobase",
     "url": "https://git.bioconductor.org/packages/Biobase",
     "branch": "RELEASE_3_21"
@@ -55,6 +65,11 @@
     "branch": "RELEASE_3_21"
   },
   {
+    "package": "dir.expiry",
+    "url": "https://git.bioconductor.org/packages/dir.expiry",
+    "branch": "RELEASE_3_21"
+  },
+  {
     "package": "GenomeInfoDb",
     "url": "https://git.bioconductor.org/packages/GenomeInfoDb",
     "branch": "RELEASE_3_21"
@@ -75,6 +90,11 @@
     "branch": "RELEASE_3_21"
   },
   {
+    "package": "graph",
+    "url": "https://git.bioconductor.org/packages/graph",
+    "branch": "RELEASE_3_21"
+  },
+  {
     "package": "IRanges",
     "url": "https://git.bioconductor.org/packages/IRanges",
     "branch": "RELEASE_3_21"
@@ -92,6 +112,21 @@
   {
     "package": "MultiAssayExperiment",
     "url": "https://git.bioconductor.org/packages/MultiAssayExperiment",
+    "branch": "RELEASE_3_21"
+  },
+  {
+    "package": "ontoProc",
+    "url": "https://git.bioconductor.org/packages/ontoProc",
+    "branch": "RELEASE_3_21"
+  },
+  {
+    "package": "parody",
+    "url": "https://git.bioconductor.org/packages/parody",
+    "branch": "RELEASE_3_21"
+  },
+  {
+    "package": "Rgraphviz",
+    "url": "https://git.bioconductor.org/packages/Rgraphviz",
     "branch": "RELEASE_3_21"
   },
   {
