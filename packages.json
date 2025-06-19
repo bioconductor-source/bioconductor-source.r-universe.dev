@@ -5,6 +5,11 @@
     "branch": "RELEASE_3_21"
   },
   {
+    "package": "AnnotationFilter",
+    "url": "https://git.bioconductor.org/packages/AnnotationFilter",
+    "branch": "RELEASE_3_21"
+  },
+  {
     "package": "AnnotationHub",
     "url": "https://git.bioconductor.org/packages/AnnotationHub",
     "branch": "RELEASE_3_21"
@@ -55,6 +60,11 @@
     "branch": "RELEASE_3_21"
   },
   {
+    "package": "biomaRt",
+    "url": "https://git.bioconductor.org/packages/biomaRt",
+    "branch": "RELEASE_3_21"
+  },
+  {
     "package": "Biostrings",
     "url": "https://git.bioconductor.org/packages/Biostrings",
     "branch": "RELEASE_3_21"
@@ -65,8 +75,18 @@
     "branch": "RELEASE_3_21"
   },
   {
+    "package": "DESeq2",
+    "url": "https://git.bioconductor.org/packages/DESeq2",
+    "branch": "RELEASE_3_21"
+  },
+  {
     "package": "dir.expiry",
     "url": "https://git.bioconductor.org/packages/dir.expiry",
+    "branch": "RELEASE_3_21"
+  },
+  {
+    "package": "ensembldb",
+    "url": "https://git.bioconductor.org/packages/ensembldb",
     "branch": "RELEASE_3_21"
   },
   {
@@ -125,6 +145,26 @@
     "branch": "RELEASE_3_21"
   },
   {
+    "package": "plyranges",
+    "url": "https://git.bioconductor.org/packages/plyranges",
+    "branch": "RELEASE_3_21"
+  },
+  {
+    "package": "plyxp",
+    "url": "https://git.bioconductor.org/packages/plyxp",
+    "branch": "RELEASE_3_21"
+  },
+  {
+    "package": "ProtGenerics",
+    "url": "https://git.bioconductor.org/packages/ProtGenerics",
+    "branch": "RELEASE_3_21"
+  },
+  {
+    "package": "RBGL",
+    "url": "https://git.bioconductor.org/packages/RBGL",
+    "branch": "RELEASE_3_21"
+  },
+  {
     "package": "Rgraphviz",
     "url": "https://git.bioconductor.org/packages/Rgraphviz",
     "branch": "RELEASE_3_21"
@@ -167,6 +207,21 @@
   {
     "package": "SummarizedExperiment",
     "url": "https://git.bioconductor.org/packages/SummarizedExperiment",
+    "branch": "RELEASE_3_21"
+  },
+  {
+    "package": "txdbmaker",
+    "url": "https://git.bioconductor.org/packages/txdbmaker",
+    "branch": "RELEASE_3_21"
+  },
+  {
+    "package": "tximeta",
+    "url": "https://git.bioconductor.org/packages/tximeta",
+    "branch": "RELEASE_3_21"
+  },
+  {
+    "package": "tximport",
+    "url": "https://git.bioconductor.org/packages/tximport",
     "branch": "RELEASE_3_21"
   },
   {
