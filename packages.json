@@ -1,5 +1,15 @@
 [
   {
+    "package": "affy",
+    "url": "https://git.bioconductor.org/packages/affy",
+    "branch": "RELEASE_3_21"
+  },
+  {
+    "package": "affyio",
+    "url": "https://git.bioconductor.org/packages/affyio",
+    "branch": "RELEASE_3_21"
+  },
+  {
     "package": "alevinQC",
     "url": "https://git.bioconductor.org/packages/alevinQC",
     "branch": "RELEASE_3_21"
@@ -135,6 +145,11 @@
     "branch": "RELEASE_3_21"
   },
   {
+    "package": "EBImage",
+    "url": "https://git.bioconductor.org/packages/EBImage",
+    "branch": "RELEASE_3_21"
+  },
+  {
     "package": "edgeR",
     "url": "https://git.bioconductor.org/packages/edgeR",
     "branch": "RELEASE_3_21"
@@ -230,6 +245,11 @@
     "branch": "RELEASE_3_21"
   },
   {
+    "package": "IHW",
+    "url": "https://git.bioconductor.org/packages/IHW",
+    "branch": "RELEASE_3_21"
+  },
+  {
     "package": "IRanges",
     "url": "https://git.bioconductor.org/packages/IRanges",
     "branch": "RELEASE_3_21"
@@ -247,6 +267,11 @@
   {
     "package": "limma",
     "url": "https://git.bioconductor.org/packages/limma",
+    "branch": "RELEASE_3_21"
+  },
+  {
+    "package": "lpsymphony",
+    "url": "https://git.bioconductor.org/packages/lpsymphony",
     "branch": "RELEASE_3_21"
   },
   {
@@ -297,6 +322,11 @@
   {
     "package": "plyxp",
     "url": "https://git.bioconductor.org/packages/plyxp",
+    "branch": "RELEASE_3_21"
+  },
+  {
+    "package": "preprocessCore",
+    "url": "https://git.bioconductor.org/packages/preprocessCore",
     "branch": "RELEASE_3_21"
   },
   {
@@ -452,6 +482,11 @@
   {
     "package": "VariantAnnotation",
     "url": "https://git.bioconductor.org/packages/VariantAnnotation",
+    "branch": "RELEASE_3_21"
+  },
+  {
+    "package": "vsn",
+    "url": "https://git.bioconductor.org/packages/vsn",
     "branch": "RELEASE_3_21"
   },
   {
