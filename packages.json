@@ -40,6 +40,11 @@
     "branch": "RELEASE_3_21"
   },
   {
+    "package": "basilisk.utils",
+    "url": "https://git.bioconductor.org/packages/basilisk.utils",
+    "branch": "RELEASE_3_21"
+  },
+  {
     "package": "Biobase",
     "url": "https://git.bioconductor.org/packages/Biobase",
     "branch": "RELEASE_3_21"
@@ -182,6 +187,11 @@
   {
     "package": "GenomeInfoDb",
     "url": "https://git.bioconductor.org/packages/GenomeInfoDb",
+    "branch": "RELEASE_3_21"
+  },
+  {
+    "package": "GenomeInfoDbData",
+    "url": "https://git.bioconductor.org/packages/GenomeInfoDbData",
     "branch": "RELEASE_3_21"
   },
   {
