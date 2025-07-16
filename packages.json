@@ -15,8 +15,8 @@
     "branch": "RELEASE_3_21"
   },
   {
-    "package": "ALL",
-    "url": "https://git.bioconductor.org/packages/ALL",
+    "package": "annotate",
+    "url": "https://git.bioconductor.org/packages/annotate",
     "branch": "RELEASE_3_21"
   },
   {
@@ -110,6 +110,11 @@
     "branch": "RELEASE_3_21"
   },
   {
+    "package": "bumphunter",
+    "url": "https://git.bioconductor.org/packages/bumphunter",
+    "branch": "RELEASE_3_21"
+  },
+  {
     "package": "ComplexHeatmap",
     "url": "https://git.bioconductor.org/packages/ComplexHeatmap",
     "branch": "RELEASE_3_21"
@@ -127,6 +132,11 @@
   {
     "package": "DelayedArray",
     "url": "https://git.bioconductor.org/packages/DelayedArray",
+    "branch": "RELEASE_3_21"
+  },
+  {
+    "package": "DelayedMatrixStats",
+    "url": "https://git.bioconductor.org/packages/DelayedMatrixStats",
     "branch": "RELEASE_3_21"
   },
   {
@@ -185,13 +195,13 @@
     "branch": "RELEASE_3_21"
   },
   {
-    "package": "GenomeInfoDb",
-    "url": "https://git.bioconductor.org/packages/GenomeInfoDb",
+    "package": "genefilter",
+    "url": "https://git.bioconductor.org/packages/genefilter",
     "branch": "RELEASE_3_21"
   },
   {
-    "package": "GenomeInfoDbData",
-    "url": "https://git.bioconductor.org/packages/GenomeInfoDbData",
+    "package": "GenomeInfoDb",
+    "url": "https://git.bioconductor.org/packages/GenomeInfoDb",
     "branch": "RELEASE_3_21"
   },
   {
@@ -220,8 +230,8 @@
     "branch": "RELEASE_3_21"
   },
   {
-    "package": "GenomicSupersignatures",
-    "url": "https://git.bioconductor.org/packages/GenomicSupersignatures",
+    "package": "GenomicSuperSignature",
+    "url": "https://git.bioconductor.org/packages/GenomicSuperSignature",
     "branch": "RELEASE_3_21"
   },
   {
@@ -260,6 +270,11 @@
     "branch": "RELEASE_3_21"
   },
   {
+    "package": "illuminaio",
+    "url": "https://git.bioconductor.org/packages/illuminaio",
+    "branch": "RELEASE_3_21"
+  },
+  {
     "package": "IRanges",
     "url": "https://git.bioconductor.org/packages/IRanges",
     "branch": "RELEASE_3_21"
@@ -290,8 +305,13 @@
     "branch": "RELEASE_3_21"
   },
   {
-    "package": "Methylumi",
-    "url": "https://git.bioconductor.org/packages/Methylumi",
+    "package": "methylumi",
+    "url": "https://git.bioconductor.org/packages/methylumi",
+    "branch": "RELEASE_3_21"
+  },
+  {
+    "package": "minfi",
+    "url": "https://git.bioconductor.org/packages/minfi",
     "branch": "RELEASE_3_21"
   },
   {
@@ -305,6 +325,11 @@
     "branch": "RELEASE_3_21"
   },
   {
+    "package": "multtest",
+    "url": "https://git.bioconductor.org/packages/multtest",
+    "branch": "RELEASE_3_21"
+  },
+  {
     "package": "ontoProc",
     "url": "https://git.bioconductor.org/packages/ontoProc",
     "branch": "RELEASE_3_21"
@@ -312,11 +337,6 @@
   {
     "package": "orthos",
     "url": "https://git.bioconductor.org/packages/orthos",
-    "branch": "RELEASE_3_21"
-  },
-  {
-    "package": "orthosData",
-    "url": "https://git.bioconductor.org/packages/orthosData",
     "branch": "RELEASE_3_21"
   },
   {
@@ -415,6 +435,11 @@
     "branch": "RELEASE_3_21"
   },
   {
+    "package": "Seqinfo",
+    "url": "https://git.bioconductor.org/packages/Seqinfo",
+    "branch": "RELEASE_3_21"
+  },
+  {
     "package": "seqLogo",
     "url": "https://git.bioconductor.org/packages/seqLogo",
     "branch": "RELEASE_3_21"
@@ -422,6 +447,11 @@
   {
     "package": "ShortRead",
     "url": "https://git.bioconductor.org/packages/ShortRead",
+    "branch": "RELEASE_3_21"
+  },
+  {
+    "package": "siggenes",
+    "url": "https://git.bioconductor.org/packages/siggenes",
     "branch": "RELEASE_3_21"
   },
   {
@@ -437,6 +467,11 @@
   {
     "package": "SparseArray",
     "url": "https://git.bioconductor.org/packages/SparseArray",
+    "branch": "RELEASE_3_21"
+  },
+  {
+    "package": "sparseMatrixStats",
+    "url": "https://git.bioconductor.org/packages/sparseMatrixStats",
     "branch": "RELEASE_3_21"
   },
   {
