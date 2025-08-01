@@ -105,6 +105,11 @@
     "branch": "RELEASE_3_21"
   },
   {
+    "package": "biovizBase",
+    "url": "https://git.bioconductor.org/packages/biovizBase",
+    "branch": "RELEASE_3_21"
+  },
+  {
     "package": "BSgenome",
     "url": "https://git.bioconductor.org/packages/BSgenome",
     "branch": "RELEASE_3_21"
@@ -252,6 +257,11 @@
   {
     "package": "graph",
     "url": "https://git.bioconductor.org/packages/graph",
+    "branch": "RELEASE_3_21"
+  },
+  {
+    "package": "Gviz",
+    "url": "https://git.bioconductor.org/packages/Gviz",
     "branch": "RELEASE_3_21"
   },
   {
